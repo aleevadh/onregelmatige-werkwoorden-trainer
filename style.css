@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "Roboto";
-  src: url("./fonts/Roboto_Condensed-Regular.ttf") format("truetype");
+  src: url("./fonts/Roboto-Regular.ttf") format("truetype");
 }
 
 body {
@@ -73,7 +73,7 @@ button:focus {
   margin-top: 15px;
   font-size: 20px;
   color: #8e8ac4;
-  font-family: roboto;
+  font-family: "Roboto";
 }
 
 #question {
@@ -104,4 +104,5 @@ a:hover {
   text-align: center;
   z-index: 1000;
 }
+
 
